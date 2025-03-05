@@ -55,6 +55,8 @@ __Data Engineer__, _X-Team_
 
 Working as a contractor for Riot Games.
 
+<div class="page-break"></div>
+
 ### 2020 - 2023
 __Data Engineer__, _iFood_
 
