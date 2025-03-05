@@ -9,7 +9,10 @@ Data Engineering Specialist - São Paulo, Brazil
 <div id="webaddress">
 <a href="flavio.mtps@gmail.com">flavio.mtps@gmail.com</a>
 | <a href="https://www.linkedin.com/in/flavsdotpy/">linkedin.com/in/flavsdotpy</a>
-| <a href="http://github.com/flavsdotpy">github.com/flavsdotpy</a>
+</div>
+  
+<div id="webaddress">
+<a href="http://github.com/flavsdotpy">github.com/flavsdotpy</a>
 | <a href="https://medium.com/@flavsdotpy">medium.com/@flavsdotpy</a>
 </div>
 
