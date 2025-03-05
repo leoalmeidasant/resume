@@ -190,5 +190,6 @@ strong {
 	visibility: hidden;
 }
 
+.page-break { break-after: page; }
 
 
