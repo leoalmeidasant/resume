@@ -53,9 +53,7 @@ Working as a contractor via X-Team.
 ### 2023 - Today
 __Data Engineer__, _X-Team_
 
-Working as a contractor for Riot Games.
-
-<div class="page-break"></div>
+Working as a contractor for Riot Games.<div class="page-break"></div>
 
 ### 2020 - 2023
 __Data Engineer__, _iFood_
@@ -94,7 +92,7 @@ Worked with business stakeholders to gather and define requirements for new data
 
 Led the development of the monitoring and telemetry for Big Data area structure, using Python, Elasticsearch and Kibana along other AWS managed services.
 
-__Main technologies:__ Python, AWS Cloud (S3, Lambda, Glue, Athena), Hadoop, Hive, PySpark, ElasticSearch and Kibana.
+__Main technologies:__ Python, AWS Cloud (S3, Lambda, Glue, Athena), Hadoop, Hive, PySpark, ElasticSearch and Kibana.<div class="page-break"></div>
 
 ### 2017 - 2018
 __Data Engineer__, _Rivendel_
