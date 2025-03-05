@@ -1,91 +1,113 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Flávio Teixeira's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Flávio Teixeira
+Data Engineering Specialist - São Paulo, Brazil
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="flavio.mtps@gmail.com">flavio.mtps@gmail.com</a>
+| <a href="https://www.linkedin.com/in/flavsdotpy/">LinkedIn</a>
+| <a href="http://github.com/flavsdotpy">GitHub</a>
+| <a href="https://medium.com/@flavsdotpy">Medium</a>
 </div>
 
+## About
 
-## Currently
+Experienced data engineer with 8+ years of expertise in designing and implementing data pipelines, optimizing data storage and retrieval, and ensuring data quality and reliability. My experience in DataOps and Data Mesh, together with Python fluency, has helped me develop tools and frameworks that enable faster and more standardized work.  \
+I also take pride in mentoring other data engineers to help them grow and develop their technical skills.
 
-Standing on the shoulders of giants
+### Technical Skills
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+* Python, Java, Scala
+* AWS, GCP
+* Docker, Kubernetes
+* Hadoop, Hive, Spark, Pandas, DuckDB, Polars
+* Databricks, Unity Catalog
+* Delta Lake, Hudi, Apache Iceberg
+* Airflow, Airbyte, DBT, dlt, Data Wrangler
+* DataOps, DataMesh, Data Products
+* PostgreSQL, MySQL, Cassandra, DynamoDB, MariaDB, Neo4j, ElasticSearch
+* Git, Jira, Agile Methodologies
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2016`
+__Technologist in Systems Analysis and Development__  \
+_FATEC São Caetano do Sul_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Sizar
+`2023 - Today`
+__Data Engineer__, Riot Games
 
-`1667 - death`
-__Trinity College, Cambridge__
+Data Engineer Working on the Data Platform Team.
+Working as a contractor via X-Team
 
-- Fellow
+`2023 - Today`
+__Data Engineer__, X-Team
 
+`2020 - 2023`
+__Data Engineer__, iFood
 
+* Built and maintained ETL pipelines, with quality and reliability, for ingesting data from various sources such as databases, queues and APIs.
+* Lead the development of a multi-purpose platform based on the concepts of Data Mesh, which takes care of the data from its ingestion, also covering transformation and publishing. In addition to the data itself, it is also responsible for all data lake observability and support, from orchestration to access management, quality and contracts, used by the whole company's data area (3k-ish people).
+* Lead the development of a series of Python libraries with different purposes, ranging from `commons` libraries for code-reuse to more active ones responsible for being the official way of reading from and writing to the Data Lake itself.
+* Mentor other data engineers from juniors to seniors looking for technical improvements.
 
-## Awards
+Main technologies: Main technologies: Python, AWS Cloud (S3, EC2, EKS, Lambda), Docker, Kubernetes, Terraform, GitlabCI , Hadoop, Hive, PySpark, Airflow and Databricks.
 
-`2012`
-President, *Royal Society*, London, UK
+`2019 - 2020`
+__Data Engineer__, Social Miner
 
-Associate, *French Academy of Science*, Paris, France
+* Built and maintained ETL pipelines, with quality and reliability, for ingesting data from various sources such as databases, queues and APIs. Also structured and maintained the company's Data Lake.
+* Designed and developed data models and schemas in order to support business requirements, and to ensure data quality and consistency.
+* Led the development of a dynamic marketing campaign tool, responsible for identifying the target customers based on any number of parameters over the whole website usage event base captured by the platform. It involved a number of different orchestration DAGs and processes, with a very modular code as well.
+* Led the development of a telemetry and quality stack built over ElasticSearch and Kibana, that held the real-time follow-up of the Data Lake and ingestions flow health and status.
 
+Main technologies: Python, AWS Cloud (S3, Lambda, EMR, Athena), Terraform, Hadoop, Hive, PySpark, Airflow, ElasticSearch and Kibana.
 
+`2018 - 2019`
+__Data Engineer__, Yandeh
 
-## Publications
+* Built and maintained ETL pipelines for ingesting data from various sources such as databases and APIs. Also structured and maintained the company's Data Lake.
+* Designed and developed data models and schemas in order to support business requirements, and to ensure data quality and consistency.
+* Worked with business stakeholders to gather and define requirements for new data products and features.
+* Led the development of the monitoring and telemetry for Big Data area structure, using Python, Elasticsearch and Kibana along other AWS managed services.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Main technologies: Python, AWS Cloud (S3, Lambda, Glue, Athena), Hadoop, Hive, PySpark, ElasticSearch and Kibana.
 
 
+`2017 - 2018`
+__Data Engineer__, Rivendel
+
+* Built and managed data lakes and systems that collect and process large scale data (Big Data Ecosystem), while working with DevOps and Cloud Computing components.
+* Developed and managed data ingestion and transformation pipelines.
+* Tech lead role in the development and management of data lakes.
+* Worked on projects for different companies: CVC, Ciclic, Dotz and MaxMilhas.
+
+Main technologies: Java, Spark, AWS Cloud (S3, Lambda, EMR, Glue, Athena), Docker
+
+### Accomplishments
+* Contributed with [Great Expectations](https://github.com/great-expectations/great_expectations), a data quality and profiling tool.
+* Had a [medium post](https://medium.com/towards-aws/making-use-of-boto3-out-of-the-box-dynamodb-serializers-1dffbc7deafe) reposted by TowardsAWS blog.
+
+### Certificates
+
+__Nanodegree in Data Engineering__  \
+_Udacity_
+
+### Languages
+
+__Portuguese__  \
+_Native_
+
+__English__  \
+_Fluent_
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2025 -->
 
 
