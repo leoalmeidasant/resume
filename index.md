@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Leonardo de Almeida's Resume
+---
+
 # Leonardo de Almeida Santos
 **Data Engineer | DataOps | Software Engineer**  
 Itaquaquecetuba, São Paulo, Brazil  
