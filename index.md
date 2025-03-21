@@ -5,7 +5,7 @@ Itaquaquecetuba, São Paulo, Brazil
 ---
 
 ## 📫 Contact  
-- **Email:** 3fsleo@gmail.com  
+- **Email:** leoalmeidasantos@icloud.com  
 - **LinkedIn:** [linkedin.com/in/leonrdalmeidasan](https://www.linkedin.com/in/leonrdalmeidasan)  
 
 ---
